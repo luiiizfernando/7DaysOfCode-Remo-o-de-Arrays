@@ -20,6 +20,6 @@ Lembre-se de que a opção de remover um item só deverá estar disponível a pa
 
 ---
 
-**Desafio proposto por:** [Rafaella Ballerini]
+**Desafio proposto por:** Rafaella Ballerini
 
 #7DaysOfCode #feedback7DoC
